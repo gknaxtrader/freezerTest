@@ -34,9 +34,9 @@ export default class FakeChart extends React.Component {
 
 						<p>Close time: <DateDisplay data={historyTrade.closeTime}/></p>
 
-						<p>Open price: {historyTrade.open}</p>
+						<p>Open price: {historyTrade.openPrice}</p>
 
-						<p>Close price: {historyTrade.close}</p>
+						<p>Close price: {historyTrade.closePrice}</p>
 					</div>
 					:
 					null}
