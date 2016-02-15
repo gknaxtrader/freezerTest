@@ -1,1 +1,1 @@
-WallStBaccarat
+investigating possible migration from Alt to Freezer https://github.com/arqex/freezer
